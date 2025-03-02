@@ -9,8 +9,8 @@ CPU scheduling is a crucial field in optimizing process management within operat
 
 
 # SYSTEM DESIGN:
-![alt text](https://github.com/[MrinmayiVerma]/[]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[MrinmayiVerma]/[]/blob/[branch]/image.jpg?raw=true)
+![FlowChart](https://github.com/MrinmayiVerma/Scheduling-Algorithm-Calculator/blob/main/JAVA%20FLOWCHART.png)
+![Use Case Diagram](https://github.com/MrinmayiVerma/Scheduling-Algorithm-Calculator/blob/main/USE%20CASE%20DIAGRAM.png)
 
 # Target Audience:
 
