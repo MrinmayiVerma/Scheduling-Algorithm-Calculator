@@ -1,2 +1,2 @@
 # Scheduling-Algorithm-Calculator
-A Java-based program designed to solve scheduling problems in operating systems like FCFS, SJN, Round Robin, and Priority Scheduling
+Scheduling Algorithm Calculator is a Java-based program designed to efficiently compute and analyze various scheduling algorithm problems encountered in operating systems. It supports algorithms such as FCFS, SJN, Round Robin, and Priority Scheduling, enabling precise process scheduling analysis, performance optimization, and resource allocation for enhanced system efficiency.
