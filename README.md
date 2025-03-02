@@ -18,6 +18,9 @@ CPU scheduling is a crucial field in optimizing process management within operat
 - Teachers or educators 
 
 
+
+
+
 ## Technologies Used
 
 -Java
